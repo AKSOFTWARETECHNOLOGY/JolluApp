@@ -1,4 +1,4 @@
-# next_hour
+# JolluApp
 
 A new Flutter application.
 
